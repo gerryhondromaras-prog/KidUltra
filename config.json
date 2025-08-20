@@ -1,0 +1,10 @@
+{
+  "guardian": {
+    "inactivity_check_sec": 30,
+    "heartbeat_sec": 3
+  },
+  "eabp": {
+    "interval_sec": 10,
+    "hard_cap": 512
+  }
+}
