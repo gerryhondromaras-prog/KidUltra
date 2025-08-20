@@ -1,0 +1,3 @@
+Logo: Kid Ultra (placeholder)
+Primary Color: #1F6FEB
+Secondary: #7C3AED
